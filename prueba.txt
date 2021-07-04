@@ -8,7 +8,5 @@ Nueva línea de código
 
 Nueva línea de código numero3
 
-=======
-Nueva línea de código 
->>>>>>> parent of b7b8c38 (Nueva linea de código agregada)
-addede
+
+Decisión
