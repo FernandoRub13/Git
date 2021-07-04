@@ -10,3 +10,4 @@ Nueva línea de código numero3
 
 
 Decisión
+Pruebas de omision
