@@ -3,7 +3,7 @@
 
 Frase de Commit3
 
-<<<<<<< HEAD
+
 Nueva línea de código 
 
 Nueva línea de código numero3
